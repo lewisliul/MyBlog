@@ -1,0 +1,34 @@
+﻿# Header
+menu:
+  Home: /
+  Archives: /archives
+  About: /about
+rss: /atom.xml
+github: https://github.com/myname
+logo_title: MyLogo
+blog_title: 耗子の博客
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+sidebar: right
+widgets:
+- recent_posts
+- tag
+- archive
+
+# Miscellaneous
+google_analytics:
+favicon:
+twitter:
+google_plus:
+fb_admins:
+fb_app_id:
+
+# Duoshuo
+duoshuo_shortname:
+
+# Swiftype Search
+swiftype_key:
